@@ -1,0 +1,14 @@
+{
+  "name": "symbol-observable-amd",
+  "version": "1.0.1",
+  "description": "Temporary AMD bundle for symbol-observable",
+  "license": "MIT",
+  "repository": "blesh/symbol-observable",
+  "author": {
+    "name": "Ben Lesh",
+    "email": "ben@benlesh.com"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  }
+}
